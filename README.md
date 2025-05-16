@@ -1,7 +1,7 @@
 ## Krist -E-Commerce UI
 
 🚀 **Live Preview:**  
-https://your-vercel-url.vercel.app
+https://e-commerce-ui-roan.vercel.app
 
 This is a responsive product listing application built with **Angular 19** and styled using **Tailwind CSS**. It displays products dynamically fetched from an external API and is **deployed on Vercel**.
 
@@ -33,9 +33,9 @@ To set up the project locally, follow these steps:
    ng serve
 4. Open your browser and visit `http://localhost:4200` to access the application.
 
-
 ## Contact Information
 
 For any questions or feedback, feel free to reach out:
+
 - GitHub: [SayedThoha](https://github.com/SayedThoha)
 - Email: sayedthoha@gmail.com
